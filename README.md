@@ -1,3 +1,3 @@
 # labranka-BussinesCartReact
 
-Static web app build in React (React + Vito)
+Static web app build in React (React + Vite)
