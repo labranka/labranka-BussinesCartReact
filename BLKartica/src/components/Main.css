@@ -1,0 +1,13 @@
+.personal-details {
+  padding: 20px 35px;
+  text-align: start;
+}
+
+.personal-details .subtitle {
+  font-size: 16px;
+}
+
+.personal-details .description {
+  margin-top: -12px;
+  font-size: 10.24px;
+}
